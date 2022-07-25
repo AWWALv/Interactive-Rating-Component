@@ -151,6 +151,9 @@
   input[type="radio"]{
     display: none;
   }
+  .attribution{
+      color:white;
+  }
   
   @media all and (min-width: 500px) {
     .card {
