@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AWWALv/Interactive-Rating-Component/)
+- Solution URL: [https://github.com/AWWALv/Interactive-Rating-Component/]
 - Live Site URL: [https://awwalv.github.io/Interactive-Rating-Component/]
 ### Built with
 
