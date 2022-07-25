@@ -12,7 +12,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/AWWALv/Interactive-Rating-Component/)
-- Live Site URL: [Add live site URL here]( https://awwalv.github.io/Interactive-Rating-Component/)
+- Live Site URL: [https://awwalv.github.io/Interactive-Rating-Component/]
 ### Built with
 
 - Semantic HTML5 markup
